@@ -5,12 +5,14 @@ An exploration of generating graphics directly from source code.
 ## Philosophy
 
 Traditional games:
-assets -> renderer
 
-(from Assets in the Assets\)
+assets → renderer
+
+*(assets from the `assets/` folder)*
 
 This project:
-code -> graphics
+
+code → graphics
 
 ## Current Experiments
 
@@ -26,6 +28,10 @@ code -> graphics
 - Code-generated meshes
 - Procedural animations
 
-> If it can be described, it can be generated.
+> "If it can be described, it can be generated."
 
-(Inspiration: TempleOS by Terry A. Davis)
+---
+
+### Inspiration
+
+Inspired by **TempleOS** and the work of **Terry A. Davis**.
