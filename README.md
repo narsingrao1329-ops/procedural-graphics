@@ -44,13 +44,13 @@ If it can be mathematically described, it can be procedurally generated.
 ## Repository Structure
 
 ```
-Static_Knight.html
-The_Responsive_Knight2.html
-procedural_caves.html
-finite-procedural-world-generation.html
-Infinite-World-Generation.html
-infinite-procedural-world-generation-plus.html
-Infinite-procedural-world-generation-All.html
+static-knight.html
+responsive-knight.html
+procedural-caves.html
+finite-world-generation.html
+infinite-world-generation.html
+infinite-world-generation-plus.html
+infinite-world-generation-all.html
 ```
 
 Each demo is self-contained and can be opened directly in a modern web browser.
